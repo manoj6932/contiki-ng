@@ -183,6 +183,9 @@ slip_config_handle_arguments(int argc, char **argv)
   case 115200:
     slip_config_b_rate = B115200;
     break;
+  case 230400:
+    slip_config_b_rate = B230400;
+    break;
 #ifdef linux
   case 921600:
     slip_config_b_rate = B921600;
