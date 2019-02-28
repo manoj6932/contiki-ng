@@ -1,5 +1,3 @@
-HELLO
-123TEST321
 # Contiki-NG: The OS for Next Generation IoT Devices
 
 [![Build Status](https://travis-ci.org/contiki-ng/contiki-ng.svg?branch=master)](https://travis-ci.org/contiki-ng/contiki-ng/branches)
